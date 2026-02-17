@@ -1,0 +1,26 @@
+{
+  "name": "trackmania-game",
+  "version": "1.0.0",
+  "description": "A 3D Trackmania-style racing game with Three.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "game",
+    "trackmania",
+    "three.js",
+    "racing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "^0.128.0"
+  }
+}
