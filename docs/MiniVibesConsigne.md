@@ -123,7 +123,7 @@ Your goal is to achieve increasingly ambitious projects, **using only one "premi
 
 At the end of the day, a comparison of the best projects will be presented. At each end of day, a **project of the day** will be elected by the teams as the most accomplished.
 
-## D01 - Don't Hold Back
+## D01 - Don't let go of the horses
 
 **The first day's project will be to reproduce the game https://enclose.horse.**
 
