@@ -132,9 +132,21 @@ The agent must produce a **comprehensive specification** that includes:
 ### Throughout development 
 **Goal**: Document everything for submission.
 
-**Tasks**:
-1. Create `SESSION.md` - a record of all prompts. Run `/session` command and include output. 
+Create `SESSION.md` - a record of all prompts. 
+Run `/session` command and include output. 
 
+**[Timestamp] - Specification Request**
+```
+[Prompt will be logged here]
+[Model: Mini]
+[Status: Completed/In Progress]
+```
+
+**[Timestamp] - [Feature Name]**
+```
+[Prompt will be logged here]
+[Model: Mini/Premium]
+[Status: Completed/In Progress]
 ---
 
 ## Specification Requirements
